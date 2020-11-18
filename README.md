@@ -12,8 +12,7 @@
   * [Questions](#questions)
   
   ## Installation
-  <p> No DL required just visit the site @ https://afternoon-tundra-35677.herokuapp.com/</p>
-
+https://pacific-ocean-72361.herokuapp.com/
   ## Usage
   <p> Home page has 2 buttons to continue a workout or start a new one. then from there you just fill in the blanks and continue.</p>
 
